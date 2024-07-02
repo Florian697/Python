@@ -1,4 +1,4 @@
-- Write a function that takes 3 arguments and prints the largest number of these arguments
+#Write a function that takes 3 arguments and prints the largest number of these arguments
 
 def function(a, b, c):
     if a >= b:

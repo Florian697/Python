@@ -1,5 +1,5 @@
-- Write a function that takes a list and adds all the values ​​from the list and returns the result.
-Call a function and store the result in a variable. Print the value of a variable
+#Write a function that takes a list and adds all the values ​​from the list and returns the result.
+#Call a function and store the result in a variable. Print the value of a variable
 
 def large(numbers):
     num_str = 0

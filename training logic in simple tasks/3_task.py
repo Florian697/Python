@@ -1,4 +1,5 @@
-- Write a function that takes a list of elements as an argument. We need to get the largest element from this list
+#Write a function that takes a list of elements as an argument.
+#We need to get the largest element from this list
 
 def large(numbers):
     num_str = 0
